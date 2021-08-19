@@ -1,0 +1,22 @@
+<template>
+  <div class="not-found-container">
+    <img src="@/assets/images/404.jpg" alt="" />
+  </div>
+</template>
+
+<script>
+export default {};
+</script>
+
+<style scoped lang="less">
+.not-found-container {
+  background: #7dcdc0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+
+}
+</style>
